@@ -9,6 +9,8 @@ For now, the enemy kills upon vision like the JohnLemon one. Trying to upgrade i
 
 Pause Menu not yet added. Coming in a following commit. 
 
+All the files are in the master branch, **NOT IN THIS BRANCH**, *This is the main branch, the files are in the master branch*.
+
 GoodBye. See Ya!!!
 
 
